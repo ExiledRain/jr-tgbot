@@ -2,7 +2,9 @@ package io.exiled.javarushtelegrambot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+/**
+ * @author Vassili Mosklajov
+ * */
 @SpringBootApplication
 public class JavarushTelegrambotApplication {
 
